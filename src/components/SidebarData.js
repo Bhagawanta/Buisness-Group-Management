@@ -18,6 +18,11 @@ import * as RiIcons from 'react-icons/ri'
                 icon: <IoIcons.IoIosPaper/>,
             },
             {
+                title: 'Email',
+                path:'/overview/email',
+                icon: <IoIcons.IoIosPaper/>,
+            },
+            {
                 title: 'Users',
                 path:'/overview/users',
                 icon: <IoIcons.IoIosPaper/>,
